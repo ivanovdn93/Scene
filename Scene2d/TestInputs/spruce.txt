@@ -1,0 +1,18 @@
+# spruce for upcoming New Year
+add circle B1 (0, 0) radius 10
+add polygon H1
+ add point (0, 10)
+ add point (-20, 80)
+ add point (20, 80)
+end polygon
+add polygon H2
+ add point (0, 80)
+ add point (-40, 140)
+ add point (40, 140)
+end polygon
+add polygon H3
+ add point (0, 140)
+ add point (-50, 180)
+ add point (50, 180)
+end polygon
+add rectangle T1 (-10, 180) (10, 200)
